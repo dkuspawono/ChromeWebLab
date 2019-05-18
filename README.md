@@ -33,3 +33,4 @@ We use [Git Hooks](http://git-scm.com/book/en/Customizing-Git-Git-Hooks) in this
 To install the Git Hooks used, just open your terminal, locate the folder of the project and run
 `ln -s ./pre-commit.sh .git/hooks/pre-commit`
 
+
